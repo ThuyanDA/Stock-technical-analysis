@@ -1,1 +1,2 @@
 # Stock-technical-analysis
+The lesson focuses on drawing technical indicator lines in stock analysis such as: MA, MACD, RSI, Calculating Stochastic Oscillator based only on closing price (Close), Bollinger Bands... With data of all Stock codes are listed on the stock exchange in Vietnam from the first day of listing until 2023. Users can choose the stock code they want to see indicator lines and have a more general view. about the stock code you are investing in or want to invest in.
